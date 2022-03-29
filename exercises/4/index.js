@@ -1,0 +1,1 @@
+document.querySelectorAll("li").forEach(li => li.className = "corgi")
